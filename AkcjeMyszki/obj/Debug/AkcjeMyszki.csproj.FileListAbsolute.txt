@@ -1,0 +1,11 @@
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\bin\Debug\AkcjeMyszki.exe.config
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\bin\Debug\AkcjeMyszki.exe
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\bin\Debug\AkcjeMyszki.pdb
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\obj\Debug\AkcjeMyszki.csproj.AssemblyReference.cache
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\obj\Debug\AkcjeMyszki.csproj.SuggestedBindingRedirects.cache
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\obj\Debug\AkcjeMyszki.Form1.resources
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\obj\Debug\AkcjeMyszki.Properties.Resources.resources
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\obj\Debug\AkcjeMyszki.csproj.GenerateResource.cache
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\obj\Debug\AkcjeMyszki.csproj.CoreCompileInputs.cache
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\obj\Debug\AkcjeMyszki.exe
+D:\Programy\edytoryKoduSrodowiska\VS source\AkcjeMyszki\obj\Debug\AkcjeMyszki.pdb
